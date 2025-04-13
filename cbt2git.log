@@ -1,0 +1,26 @@
+2025-04-13 18:46:30.279598 - Received CBT.V508.FILE335.PDS from FILE335.XMI 
+2025-04-13 18:46:30.281163 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/$$$#DATE
+2025-04-13 18:46:30.281289 - Found @FILE335.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/@FILE335
+2025-04-13 18:46:30.281404 - Found BITS.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/BITS
+2025-04-13 18:46:30.281514 - Found CBCCL.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/CBCCL
+2025-04-13 18:46:30.281648 - Found CBCCO.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/CBCCO
+2025-04-13 18:46:30.281773 - Found COPTS.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/COPTS
+2025-04-13 18:46:30.281901 - Found CRYPT.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/CRYPT
+2025-04-13 18:46:30.282041 - Found C370.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/C370
+2025-04-13 18:46:30.282205 - Found DEFLATE.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/DEFLATE
+2025-04-13 18:46:30.282310 - Found DYNWTO.x-c (text/x-c) in CBT.V508.FILE335.PDS, moved to PDS/DYNWTO
+2025-04-13 18:46:30.282384 - Found DYNWTOA.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/DYNWTOA
+2025-04-13 18:46:30.282479 - Found GETOPT.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/GETOPT
+2025-04-13 18:46:30.282550 - Found GOGZIP.jcl (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/GOGZIP
+2025-04-13 18:46:30.282669 - Found GZIP.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/GZIP
+2025-04-13 18:46:30.282783 - Found INFLATE.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/INFLATE
+2025-04-13 18:46:30.282896 - Found LZW.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/LZW
+2025-04-13 18:46:30.282998 - Found MAKEGZIP.jcl (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/MAKEGZIP
+2025-04-13 18:46:30.283118 - Found SCANNER.bin (application/octet-stream) in CBT.V508.FILE335.PDS, moved to PDS/SCANNER
+2025-04-13 18:46:30.283259 - Found TREES.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/TREES
+2025-04-13 18:46:30.283365 - Found UNLZH.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/UNLZH
+2025-04-13 18:46:30.283476 - Found UNLZW.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/UNLZW
+2025-04-13 18:46:30.283584 - Found UNPACK.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/UNPACK
+2025-04-13 18:46:30.283689 - Found UNZIP.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/UNZIP
+2025-04-13 18:46:30.283800 - Found UTIL.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/UTIL
+2025-04-13 18:46:30.283898 - Found ZIP.txt (text/plain) in CBT.V508.FILE335.PDS, moved to PDS/ZIP
